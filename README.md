@@ -1,7 +1,7 @@
 # Federated Domain Generalization papers ✨
 
 | Paper Title | Year | Venue | Code |
-| ------------- | ------------- | ------------- | ------------- |
+|:-----------:|:----:|:-----:|:----:|
 FedSR: A Simple and Effective Domain Generalization Method for Federated Learning | 2022 | NIPS | \
 FedDrive: generalizing federated learning to semantic segmentation in autonomous driving | 2022 | IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) | \
 Mitigating Data Heterogeneity in Federated Learning with Data Augmentation | 2022 | arxiv | \
