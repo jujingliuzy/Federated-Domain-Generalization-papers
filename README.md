@@ -7,8 +7,14 @@ Harmonizing Generalization and Personalization in Federated Prompt Learning | 20
 Benchmarking Algorithms for Federated Domain Generalization | 2024 | ICLR | 
 Efficiently Assemble Normalization Layers and Regularization for Federated Domain Generalization | 2024 | CVPR
 DiPrompT: Disentangled Prompt Tuning for Multiple Latent Domain Generalization in Federated Learning | 2024 | CVPR |
+Local and Global Flatness for Federated Domain Generalization | 2024 | ECCV
+Multi-Source Collaborative Gradient Discrepancy Minimization for Federated Domain Generalization | 2024 | AAAI
+Prototype-Decomposed Knowledge Distillation for Learning Generalized Federated Representation | 2024 | EEE Transactions on Multimedia 
 Federated Learning via Reweighting Information Bottleneck with Domain Generalization | 2024 | Information Sciences
 G2G: Generalized Learning by Cross-Domain Knowledge Transfer for Federated Domain Generalization | 2024 | ICASSP | 
+Boosting Federated Domain Generalization: The Role of Advanced Pre-Trained Architectures | 2024 | arxiv
+Federated Unsupervised Domain Generalization using Global and Local Alignment of Gradients | 2024 | arxiv
+Reducing Spurious Correlation for Federated Domain Generalization | 2024 | arxiv
 Non-linear Fusion in Federated Learning: A Hypernetwork Approach to Federated Domain Generalization | 2024 | arxiv
 Out-of-Distribution Generalization of Federated Learning via Implicit Invariant Relationships | 2023 | ICLR |
 Efficient Federated Domain Translation | 2023 | ICLR |
@@ -38,6 +44,8 @@ Gradient Masking for Generalization in Heterogeneous Federated Learning | 2021 |
 Collaborative optimization and aggregation for decentralized domain generalization and adaptation | 2021 | ICCV | \
 Feddg: Federated domain generalization on medical image segmentation via episodic learning in continuous frequency space | 2021 | CVPR | [code](https://github.com/liuquande/FedDG-ELCFS)
 TsmoBN: Interventional Generalization for Unseen Clients in Federated Learning | 2021 | arxiv |
+Person Re-identification:
+Diversity-Authenticity Co-constrained Stylization for Federated Domain Generalization in Person Re-identification | 2024 | AAAI
 
 # Federated Learning papers ✨
 | Paper Title | Year | Venue | Code |
