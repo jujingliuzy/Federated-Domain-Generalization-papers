@@ -2,11 +2,14 @@
 
 | Paper Title | Year | Venue | Code |
 | ----------- |:----:|:-----:|:----:|
+**_Benchmark:_**
+Benchmarking Algorithms for Federated Domain Generalization | 2024 | ICLR | [code](https://github.com/inouye-lab/feddg_benchmark)
+/ | / | / | / |
 [Federated Domain Generalization with Data-free On-server Gradient Matching](https://openreview.net/forum?id=8TERgu1Lb2) | 2025 | ICLR | [code](https://github.com/skydvn/fedomg)
+[DACOA: Diffusion-Aligned Coherent Augmentation and Consistency Constraint Strategies for Federated Domain Generalization](https://link.springer.com/chapter/10.1007/978-3-031-78398-2_12) | 2025 | ICPR
 FedDAG: Federated Domain Adversarial Generation Towards Generalizable Medical Image Analysis | 2025 | arxiv
 Beyond the Federation: Topology-aware Federated Learning for Generalization to Unseen Clients | 2024 | ICML
 Harmonizing Generalization and Personalization in Federated Prompt Learning | 2024 | ICML
-Benchmarking Algorithms for Federated Domain Generalization | 2024 | ICLR | [code](https://github.com/inouye-lab/feddg_benchmark)
 Efficiently Assemble Normalization Layers and Regularization for Federated Domain Generalization | 2024 | CVPR | [code](https://github.com/lhkhiem28/gPerXAN?utm_source=catalyzex.com)
 DiPrompT: Disentangled Prompt Tuning for Multiple Latent Domain Generalization in Federated Learning | 2024 | CVPR |
 Local and Global Flatness for Federated Domain Generalization | 2024 | ECCV
@@ -60,5 +63,16 @@ Diversity-Authenticity Co-constrained Stylization for Federated Domain Generaliz
 # Domain Generalization papers ✨
 | Paper Title | Year | Venue | Code |
 | ------------- | ------------- | ------------- | ------------- |
+/ | / | / | / |
+**_Vision-Language Model(VLM):_**
+[Enhancing cross-domain generalization by fusing language-guided feature remapping](https://www.sciencedirect.com/science/article/pii/S1566253525001022) | 2025 | Information Fusion
+[Distilling Out-of-Distribution Robustness from Vision-Language Foundation Models](https://proceedings.neurips.cc/paper_files/paper/2023/hash/67f30132d98e758f7b4e28c36091d86e-Abstract-Conference.html) | 2024 | NIPS | [code](https://github.com/lapisrocks/DiscreteAdversarialDistillation?utm_source=catalyzex.com)
+[CLIPCEIL: Domain Generalization through CLIP via Channel rEfinement and Image-text aLignment](https://proceedings.neurips.cc/paper_files/paper/2024/hash/080be5eb7e887319ff30c792c2cbc28c-Abstract-Conference.html) | 2024 | NIPS
+[PracticalDG: Perturbation Distillation on Vision-Language Models for Hybrid Domain Generalization](https://openaccess.thecvf.com/content/CVPR2024/html/Chen_PracticalDG_Perturbation_Distillation_on_Vision-Language_Models_for_Hybrid_Domain_Generalization_CVPR_2024_paper.html) | 2024 | CVPR | [code](https://github.com/znchen666/HDG?utm_source=catalyzex.com)
+[Leveraging Vision-Language Models for Improving Domain Generalization in Image Classification] | 2024 | CVPR
+[Learn to Preserve and Diversify: Parameter-Efficient Group with Orthogonal Regularization for Domain Generalization](https://link.springer.com/chapter/10.1007/978-3-031-72983-6_12) | 2024 | ECCV | 
+[Distilling Large Vision-Language Model with Out-of-Distribution Generalizability] | 2023 | ICCV
+[A Sentence Speaks a Thousand Images: Domain Generalization through Distilling CLIP with Language Guidance] | 2023 | ICCV | [code](https://github.com/WisconsinAIVision/RISE?utm_source=catalyzex.com)
 Bayesian Cross-modal Alignment Learning for Few-Shot Out-of-Distribution Generalization | 2023 | AAAI | [code](https://github.com/LinLLLL/BayesCAL)
+**_Benchmark:_**
 Wilds: A benchmark of in-the-wild distribution shifts | 2021 | ICML | [code](https://github.com/p-lambda/wilds)
