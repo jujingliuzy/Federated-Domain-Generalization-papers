@@ -60,3 +60,4 @@ Diversity-Authenticity Co-constrained Stylization for Federated Domain Generaliz
 # Domain Generalization papers ✨
 | Paper Title | Year | Venue | Code |
 | ------------- | ------------- | ------------- | ------------- |
+Wilds: A benchmark of in-the-wild distribution shifts | 2021 | ICML | [code](https://github.com/p-lambda/wilds)
