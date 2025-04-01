@@ -64,15 +64,23 @@ Diversity-Authenticity Co-constrained Stylization for Federated Domain Generaliz
 | Paper Title | Year | Venue | Code |
 | ------------- | ------------- | ------------- | ------------- |
 / | / | / | / |
+**_Vision-Language Model(VLM)-Knowledge Distillation:_**
+[Distilling Out-of-Distribution Robustness from Vision-Language Foundation Models](https://proceedings.neurips.cc/paper_files/paper/2023/hash/67f30132d98e758f7b4e28c36091d86e-Abstract-Conference.html) | 2024 | NIPS | [code](https://github.com/lapisrocks/DiscreteAdversarialDistillation?utm_source=catalyzex.com)
+[PracticalDG: Perturbation Distillation on Vision-Language Models for Hybrid Domain Generalization](https://openaccess.thecvf.com/content/CVPR2024/html/Chen_PracticalDG_Perturbation_Distillation_on_Vision-Language_Models_for_Hybrid_Domain_Generalization_CVPR_2024_paper.html) | 2024 | CVPR | [code](https://github.com/znchen666/HDG?utm_source=catalyzex.com)
+[Leveraging Vision-Language Models for Improving Domain Generalization in Image Classification](https://openaccess.thecvf.com/content/CVPR2024/html/Addepalli_Leveraging_Vision-Language_Models_for_Improving_Domain_Generalization_in_Image_Classification_CVPR_2024_paper.html) | 2024 | CVPR
+[Learn to Preserve and Diversify: Parameter-Efficient Group with Orthogonal Regularization for Domain Generalization](https://link.springer.com/chapter/10.1007/978-3-031-72983-6_12) | 2024 | ECCV | 
+[Distilling Large Vision-Language Model with Out-of-Distribution Generalizability](https://openaccess.thecvf.com/content/ICCV2023/html/Li_Distilling_Large_Vision-Language_Model_with_Out-of-Distribution_Generalizability_ICCV_2023_paper.html) | 2023 | ICCV
+[A Sentence Speaks a Thousand Images: Domain Generalization through Distilling CLIP with Language Guidance](https://openaccess.thecvf.com/content/ICCV2023/html/Huang_A_Sentence_Speaks_a_Thousand_Images_Domain_Generalization_through_Distilling_ICCV_2023_paper.html) | 2023 | ICCV | [code](https://github.com/WisconsinAIVision/RISE?utm_source=catalyzex.com)
+**_Vision-Language Model(VLM)-prompt:_**
+[Adapting to Distribution Shift by Visual Domain Prompt Generation](https://openreview.net/forum?id=sSaN4gxuEf) | 2024 | ICLR | [code](https://chi-chi-zx.github.io/VDPG_ICLR24/)
+[Disentangled Prompt Representation for Domain Generalization](https://openaccess.thecvf.com/content/CVPR2024/html/Cheng_Disentangled_Prompt_Representation_for_Domain_Generalization_CVPR_2024_paper.html) | 2024 | CVPR |
+[Ensembling disentangled domain-specific prompts for domain generalization](https://www.sciencedirect.com/science/article/pii/S0950705124009924) | 2024 | Knowledge-Based Systems
 **_Vision-Language Model(VLM):_**
 [Enhancing cross-domain generalization by fusing language-guided feature remapping](https://www.sciencedirect.com/science/article/pii/S1566253525001022) | 2025 | Information Fusion
-[Distilling Out-of-Distribution Robustness from Vision-Language Foundation Models](https://proceedings.neurips.cc/paper_files/paper/2023/hash/67f30132d98e758f7b4e28c36091d86e-Abstract-Conference.html) | 2024 | NIPS | [code](https://github.com/lapisrocks/DiscreteAdversarialDistillation?utm_source=catalyzex.com)
+[Attention head purification: A new perspective to harness CLIP for domain generalization](https://www.sciencedirect.com/science/article/pii/S026288562500099X) | 2025 | Image and Vision Computing
 [CLIPCEIL: Domain Generalization through CLIP via Channel rEfinement and Image-text aLignment](https://proceedings.neurips.cc/paper_files/paper/2024/hash/080be5eb7e887319ff30c792c2cbc28c-Abstract-Conference.html) | 2024 | NIPS
-[PracticalDG: Perturbation Distillation on Vision-Language Models for Hybrid Domain Generalization](https://openaccess.thecvf.com/content/CVPR2024/html/Chen_PracticalDG_Perturbation_Distillation_on_Vision-Language_Models_for_Hybrid_Domain_Generalization_CVPR_2024_paper.html) | 2024 | CVPR | [code](https://github.com/znchen666/HDG?utm_source=catalyzex.com)
-[Leveraging Vision-Language Models for Improving Domain Generalization in Image Classification] | 2024 | CVPR
-[Learn to Preserve and Diversify: Parameter-Efficient Group with Orthogonal Regularization for Domain Generalization](https://link.springer.com/chapter/10.1007/978-3-031-72983-6_12) | 2024 | ECCV | 
-[Distilling Large Vision-Language Model with Out-of-Distribution Generalizability] | 2023 | ICCV
-[A Sentence Speaks a Thousand Images: Domain Generalization through Distilling CLIP with Language Guidance] | 2023 | ICCV | [code](https://github.com/WisconsinAIVision/RISE?utm_source=catalyzex.com)
+[CLIPood: Generalizing CLIP to Out-of-Distributions](https://proceedings.mlr.press/v202/shu23a.html) | 2023 | ICML
+Borrowing Knowledge From Pre-trained Language Model: A New Data-efficient Visual Learning Paradigm | 2023 | ICCV
 Bayesian Cross-modal Alignment Learning for Few-Shot Out-of-Distribution Generalization | 2023 | AAAI | [code](https://github.com/LinLLLL/BayesCAL)
 **_Benchmark:_**
 Wilds: A benchmark of in-the-wild distribution shifts | 2021 | ICML | [code](https://github.com/p-lambda/wilds)
