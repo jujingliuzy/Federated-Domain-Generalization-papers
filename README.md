@@ -44,7 +44,8 @@ Gradient Masking for Generalization in Heterogeneous Federated Learning | 2021 |
 Collaborative optimization and aggregation for decentralized domain generalization and adaptation | 2021 | ICCV | \
 Feddg: Federated domain generalization on medical image segmentation via episodic learning in continuous frequency space | 2021 | CVPR | [code](https://github.com/liuquande/FedDG-ELCFS)
 TsmoBN: Interventional Generalization for Unseen Clients in Federated Learning | 2021 | arxiv |
-**Person Re-identification:**
+/ | / | / | / |
+**_Person Re-Identification:_**
 Diversity-Authenticity Co-constrained Stylization for Federated Domain Generalization in Person Re-identification | 2024 | AAAI
 
 # Federated Learning papers ✨
