@@ -74,6 +74,7 @@ Diversity-Authenticity Co-constrained Stylization for Federated Domain Generaliz
 **_Vision-Language Model(VLM)-prompt:_**
 [Adapting to Distribution Shift by Visual Domain Prompt Generation](https://openreview.net/forum?id=sSaN4gxuEf) | 2024 | ICLR | [code](https://chi-chi-zx.github.io/VDPG_ICLR24/)
 [Disentangled Prompt Representation for Domain Generalization](https://openaccess.thecvf.com/content/CVPR2024/html/Cheng_Disentangled_Prompt_Representation_for_Domain_Generalization_CVPR_2024_paper.html) | 2024 | CVPR |
+PromptStyler: Prompt-driven Style Generation for Source-free Domain Generalization | 2024 | ICCV
 [Ensembling disentangled domain-specific prompts for domain generalization](https://www.sciencedirect.com/science/article/pii/S0950705124009924) | 2024 | Knowledge-Based Systems
 **_Vision-Language Model(VLM):_**
 [Enhancing cross-domain generalization by fusing language-guided feature remapping](https://www.sciencedirect.com/science/article/pii/S1566253525001022) | 2025 | Information Fusion
@@ -82,5 +83,6 @@ Diversity-Authenticity Co-constrained Stylization for Federated Domain Generaliz
 [CLIPood: Generalizing CLIP to Out-of-Distributions](https://proceedings.mlr.press/v202/shu23a.html) | 2023 | ICML
 Borrowing Knowledge From Pre-trained Language Model: A New Data-efficient Visual Learning Paradigm | 2023 | ICCV
 Bayesian Cross-modal Alignment Learning for Few-Shot Out-of-Distribution Generalization | 2023 | AAAI | [code](https://github.com/LinLLLL/BayesCAL)
+[Domain Generalization by Mutual-Information Regularization with Pre-trained Models](https://link.springer.com/chapter/10.1007/978-3-031-20050-2_26) | 2022 | ECCV
 **_Benchmark:_**
 Wilds: A benchmark of in-the-wild distribution shifts | 2021 | ICML | [code](https://github.com/p-lambda/wilds)
