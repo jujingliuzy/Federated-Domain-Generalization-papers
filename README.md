@@ -2,16 +2,16 @@
 
 | Paper Title | Year | Venue | Code |
 | ----------- |:----:|:-----:|:----:|
-Federated Domain Generalization with Data-free On-server Gradient Matching | 2025 | arxiv
+[Federated Domain Generalization with Data-free On-server Gradient Matching](https://openreview.net/forum?id=8TERgu1Lb2) | 2025 | ICLR | [code](https://github.com/skydvn/fedomg)
 FedDAG: Federated Domain Adversarial Generation Towards Generalizable Medical Image Analysis | 2025 | arxiv
 Beyond the Federation: Topology-aware Federated Learning for Generalization to Unseen Clients | 2024 | ICML
 Harmonizing Generalization and Personalization in Federated Prompt Learning | 2024 | ICML
-Benchmarking Algorithms for Federated Domain Generalization | 2024 | ICLR | 
-Efficiently Assemble Normalization Layers and Regularization for Federated Domain Generalization | 2024 | CVPR
+Benchmarking Algorithms for Federated Domain Generalization | 2024 | ICLR | [code](https://github.com/inouye-lab/feddg_benchmark)
+Efficiently Assemble Normalization Layers and Regularization for Federated Domain Generalization | 2024 | CVPR | [code](https://github.com/lhkhiem28/gPerXAN?utm_source=catalyzex.com)
 DiPrompT: Disentangled Prompt Tuning for Multiple Latent Domain Generalization in Federated Learning | 2024 | CVPR |
 Local and Global Flatness for Federated Domain Generalization | 2024 | ECCV
 Feature Diversification and Adaptation for Federated Domain Generalization | 2024 | ECCV
-Multi-Source Collaborative Gradient Discrepancy Minimization for Federated Domain Generalization | 2024 | AAAI
+Multi-Source Collaborative Gradient Discrepancy Minimization for Federated Domain Generalization | 2024 | AAAI | [code](https://github.com/weiyikang/FedGM_torch)
 Model-level attention and batch-instance style normalization for federated learning on medical image segmentation | 2024 | Information Fusion
 Prototype-Decomposed Knowledge Distillation for Learning Generalized Federated Representation | 2024 | EEE Transactions on Multimedia 
 Federated Learning via Reweighting Information Bottleneck with Domain Generalization | 2024 | Information Sciences
