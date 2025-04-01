@@ -60,4 +60,5 @@ Diversity-Authenticity Co-constrained Stylization for Federated Domain Generaliz
 # Domain Generalization papers ✨
 | Paper Title | Year | Venue | Code |
 | ------------- | ------------- | ------------- | ------------- |
+Bayesian Cross-modal Alignment Learning for Few-Shot Out-of-Distribution Generalization | 2023 | AAAI | [code](https://github.com/LinLLLL/BayesCAL)
 Wilds: A benchmark of in-the-wild distribution shifts | 2021 | ICML | [code](https://github.com/p-lambda/wilds)
