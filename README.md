@@ -58,8 +58,15 @@ Diversity-Authenticity Co-constrained Stylization for Federated Domain Generaliz
 # Federated Learning papers ✨
 | Paper Title | Year | Venue | Code |
 | ------------- | ------------- | ------------- | ------------- |
-
-
+**_domain shift:_**
+[Rethinking Federated Learning with Domain Shift: A Prototype View](https://ieeexplore.ieee.org/abstract/document/10203389) | 2023 | CVPR | [code](https://github.com/WenkeHuang/RethinkFL?utm_source=catalyzex.com)
+Disentangled Federated Learning for Tackling Attributes Skew via Invariant Aggregation and Diversity Transferring | 2022 | ICML
+[Learn From Others and Be Yourself in Heterogeneous Federated Learning](https://openaccess.thecvf.com/content/CVPR2022/html/Huang_Learn_From_Others_and_Be_Yourself_in_Heterogeneous_Federated_Learning_CVPR_2022_paper.html) | 2022 | CVPR
+HarmoFL: Harmonizing Local and Global Drifts in Federated Learning on Heterogeneous Medical Images | 2022 | AAAI
+[FedBN: Federated Learning on Non-IID Features via Local Batch Normalization](https://openreview.net/forum?id=6YEQUn0QICG) | 2021 | ICLR
+[PartialFed: Cross-Domain Personalized Federated Learning via Partial Initialization](https://proceedings.neurips.cc/paper/2021/hash/c429429bf1f2af051f2021dc92a8ebea-Abstract.html) | 2021 | NIPS 
+Multi-institutional collaborations for improving deep learning-based magnetic resonance image reconstruction using federated learning | 2021 | CVPR
+Federated Adversarial Domain Adaptation | 2020 | ICLR
 # Domain Generalization papers ✨
 | Paper Title | Year | Venue | Code |
 | ------------- | ------------- | ------------- | ------------- |
