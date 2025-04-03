@@ -59,7 +59,21 @@ Diversity-Authenticity Co-constrained Stylization for Federated Domain Generaliz
 | Paper Title | Year | Venue | Code |
 | ------------- | ------------- | ------------- | ------------- |
 **_domain shift:_**
+Fed-CO2: Cooperation of Online and Offline Models for Severe Data Heterogeneity in Federated Learning | 2024 | NIPS
+Think Twice Before Selection: Federated Evidential Active Learning for Medical Image Analysis with Domain Shifts | 2024 | CVPR
+Fusing consensus knowledge: A federated learning method for fault diagnosis via privacy-preserving reference under domain shift | 2024 | Information Fusion 
+FedFA: Federated Feature Augmentation | 2023 | ICLR
+Is Heterogeneity Notorious? Taming Heterogeneity to Handle Test-Time Shift in Federated Learning | 2023 | NIPS
 [Rethinking Federated Learning with Domain Shift: A Prototype View](https://ieeexplore.ieee.org/abstract/document/10203389) | 2023 | CVPR | [code](https://github.com/WenkeHuang/RethinkFL?utm_source=catalyzex.com)
+[FRAug: Tackling Federated Learning with Non-IID Features via Representation Augmentation](https://openaccess.thecvf.com/content/ICCV2023/html/Chen_FRAug_Tackling_Federated_Learning_with_Non-IID_Features_via_Representation_Augmentation_ICCV_2023_paper.html) | 2023 | ICCV
+FRAug: Tackling Federated Learning with Non-IID Features via Representation Augmentation | 2023 | ICCV
+FedSea: Federated Learning via Selective Feature Alignment for Non-IID Multimodal Data | 2023 | IEEE Transactions on Multimedia
+[FedFM: Anchor-Based Feature Matching for Data Heterogeneity in Federated Learning](https://ieeexplore.ieee.org/abstract/document/10286439) | 2023 | IEEE Transactions on Signal Processing | [code](https://github.com/rui-ye/FedFM/tree/main)
+FedFA: Federated Learning with Feature Anchors to Align Features and Classifiers for Heterogeneous Data | 2023 | IEEE Transactions on Mobile Computing
+Aligning before Aggregating: Enabling Communication Efficient Cross-Domain Federated Learning via Consistent Feature Extraction | 2023 | IEEE Transactions on Mobile Computing
+GRACE: A Generalized and Personalized Federated Learning Method for Medical Imaging | 2023 | MICCAI
+Dual Prompt Tuning for Domain-Aware Federated Learning | 2023 | arxiv
+FediOS: Decoupling Orthogonal Subspaces for Personalization in Feature-skew Federated Learning | 2023 | arxiv
 Disentangled Federated Learning for Tackling Attributes Skew via Invariant Aggregation and Diversity Transferring | 2022 | ICML
 [Learn From Others and Be Yourself in Heterogeneous Federated Learning](https://openaccess.thecvf.com/content/CVPR2022/html/Huang_Learn_From_Others_and_Be_Yourself_in_Heterogeneous_Federated_Learning_CVPR_2022_paper.html) | 2022 | CVPR
 HarmoFL: Harmonizing Local and Global Drifts in Federated Learning on Heterogeneous Medical Images | 2022 | AAAI
@@ -67,6 +81,8 @@ HarmoFL: Harmonizing Local and Global Drifts in Federated Learning on Heterogene
 [PartialFed: Cross-Domain Personalized Federated Learning via Partial Initialization](https://proceedings.neurips.cc/paper/2021/hash/c429429bf1f2af051f2021dc92a8ebea-Abstract.html) | 2021 | NIPS 
 Multi-institutional collaborations for improving deep learning-based magnetic resonance image reconstruction using federated learning | 2021 | CVPR
 Federated Adversarial Domain Adaptation | 2020 | ICLR
+
+
 # Domain Generalization papers ✨
 | Paper Title | Year | Venue | Code |
 | ------------- | ------------- | ------------- | ------------- |
