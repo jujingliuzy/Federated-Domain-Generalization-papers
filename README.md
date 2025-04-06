@@ -60,10 +60,13 @@ Diversity-Authenticity Co-constrained Stylization for Federated Domain Generaliz
 | ------------- | ------------- | ------------- | ------------- |
 **_domain shift:_**
 FedCCL: Federated dual-clustered feature contrast under domain heterogeneity | 2025 | Information Fusion
+Unifying domain gap in Federated Learning: A geometric approach | 2025 | Neurocomputing
 Mitigating Domain Shift in Federated Learning via Intra- and Inter-Domain Prototypes | 2025 | arxiv
 Federated Learning with Domain Shift Eraser | 2025 | arxiv
 Fed-CO2: Cooperation of Online and Offline Models for Severe Data Heterogeneity in Federated Learning | 2024 | NIPS
 Think Twice Before Selection: Federated Evidential Active Learning for Medical Image Analysis with Domain Shifts | 2024 | CVPR
+[Fair Federated Learning under Domain Skew with Local Consistency and Domain Diversity](https://openaccess.thecvf.com/content/CVPR2024/html/Chen_Fair_Federated_Learning_under_Domain_Skew_with_Local_Consistency_and_CVPR_2024_paper.html) | 2024 | CVPR | [code](https://github.com/yuhangchen0/FedHEAL)
+[Global and Local Prompts Cooperation via Optimal Transport for Federated Learning](https://openaccess.thecvf.com/content/CVPR2024/html/Li_Global_and_Local_Prompts_Cooperation_via_Optimal_Transport_for_Federated_CVPR_2024_paper.html) | 2024 | CVPR | [code]((https://github.com/HongxiaLee/FedOTP))
 Federated Graph Learning under Domain Shift with Generalizable Prototypes | 2024 | AAAI
 Fusing consensus knowledge: A federated learning method for fault diagnosis via privacy-preserving reference under domain shift | 2024 | Information Fusion 
 FedCiR: Client-invariant representation learning for federated non-iid features | 2024 | IEEE Transactions on Mobile Computing
