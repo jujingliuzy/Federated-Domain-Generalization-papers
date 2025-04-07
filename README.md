@@ -2,21 +2,20 @@
 
 | Paper Title | Year | Venue | Code |
 | ----------- |:----:|:-----:|:----:|
-**_Benchmark:_**
-Benchmarking Algorithms for Federated Domain Generalization | 2024 | ICLR | [code](https://github.com/inouye-lab/feddg_benchmark)
-/ | / | / | / |
 [Federated Domain Generalization with Data-free On-server Gradient Matching](https://openreview.net/forum?id=8TERgu1Lb2) | 2025 | ICLR | [code](https://github.com/skydvn/fedomg)
 [DACOA: Diffusion-Aligned Coherent Augmentation and Consistency Constraint Strategies for Federated Domain Generalization](https://link.springer.com/chapter/10.1007/978-3-031-78398-2_12) | 2025 | ICPR
 FedAlign: Federated Domain Generalization with Cross-Client Feature Alignment | 2025 | arxiv
 FedDAG: Federated Domain Adversarial Generation Towards Generalizable Medical Image Analysis | 2025 | arxiv
 Beyond the Federation: Topology-aware Federated Learning for Generalization to Unseen Clients | 2024 | ICML
 Harmonizing Generalization and Personalization in Federated Prompt Learning | 2024 | ICML
+Benchmarking Algorithms for Federated Domain Generalization | 2024 | ICLR | [code](https://github.com/inouye-lab/feddg_benchmark)
 Efficiently Assemble Normalization Layers and Regularization for Federated Domain Generalization | 2024 | CVPR | [code](https://github.com/lhkhiem28/gPerXAN?utm_source=catalyzex.com)
 DiPrompT: Disentangled Prompt Tuning for Multiple Latent Domain Generalization in Federated Learning | 2024 | CVPR |
 Local and Global Flatness for Federated Domain Generalization | 2024 | ECCV
 Feature Diversification and Adaptation for Federated Domain Generalization | 2024 | ECCV
 Multi-Source Collaborative Gradient Discrepancy Minimization for Federated Domain Generalization | 2024 | AAAI | [code](https://github.com/weiyikang/FedGM_torch)
 Model-level attention and batch-instance style normalization for federated learning on medical image segmentation | 2024 | Information Fusion
+Fusing consensus knowledge: A federated learning method for fault diagnosis via privacy-preserving reference under domain shift | 2024 | Information Fusion
 Prototype-Decomposed Knowledge Distillation for Learning Generalized Federated Representation | 2024 | EEE Transactions on Multimedia 
 Federated Learning via Reweighting Information Bottleneck with Domain Generalization | 2024 | Information Sciences
 G2G: Generalized Learning by Cross-Domain Knowledge Transfer for Federated Domain Generalization | 2024 | ICASSP | 
