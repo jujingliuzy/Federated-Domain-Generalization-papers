@@ -108,6 +108,7 @@ Federated Adversarial Domain Adaptation | 2020 | ICLR
 [Disentangled Prompt Representation for Domain Generalization](https://openaccess.thecvf.com/content/CVPR2024/html/Cheng_Disentangled_Prompt_Representation_for_Domain_Generalization_CVPR_2024_paper.html) | 2024 | CVPR |
 PromptStyler: Prompt-driven Style Generation for Source-free Domain Generalization | 2024 | ICCV
 [Ensembling disentangled domain-specific prompts for domain generalization](https://www.sciencedirect.com/science/article/pii/S0950705124009924) | 2024 | Knowledge-Based Systems
+In the Era of Prompt Learning with Vision-Language Models | 2024 | arxiv
 **_Vision-Language Model(VLM):_**
 [Enhancing cross-domain generalization by fusing language-guided feature remapping](https://www.sciencedirect.com/science/article/pii/S1566253525001022) | 2025 | Information Fusion
 [Attention head purification: A new perspective to harness CLIP for domain generalization](https://www.sciencedirect.com/science/article/pii/S026288562500099X) | 2025 | Image and Vision Computing
