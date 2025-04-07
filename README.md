@@ -77,7 +77,6 @@ FedFA: Federated Feature Augmentation | 2023 | ICLR
 Is Heterogeneity Notorious? Taming Heterogeneity to Handle Test-Time Shift in Federated Learning | 2023 | NIPS
 [Rethinking Federated Learning with Domain Shift: A Prototype View](https://ieeexplore.ieee.org/abstract/document/10203389) | 2023 | CVPR | [code](https://github.com/WenkeHuang/RethinkFL?utm_source=catalyzex.com)
 [FRAug: Tackling Federated Learning with Non-IID Features via Representation Augmentation](https://openaccess.thecvf.com/content/ICCV2023/html/Chen_FRAug_Tackling_Federated_Learning_with_Non-IID_Features_via_Representation_Augmentation_ICCV_2023_paper.html) | 2023 | ICCV
-FRAug: Tackling Federated Learning with Non-IID Features via Representation Augmentation | 2023 | ICCV
 FedSea: Federated Learning via Selective Feature Alignment for Non-IID Multimodal Data | 2023 | IEEE Transactions on Multimedia
 [FedFM: Anchor-Based Feature Matching for Data Heterogeneity in Federated Learning](https://ieeexplore.ieee.org/abstract/document/10286439) | 2023 | IEEE Transactions on Signal Processing | [code](https://github.com/rui-ye/FedFM/tree/main)
 FedFA: Federated Learning with Feature Anchors to Align Features and Classifiers for Heterogeneous Data | 2023 | IEEE Transactions on Mobile Computing
