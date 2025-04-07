@@ -7,6 +7,7 @@ Benchmarking Algorithms for Federated Domain Generalization | 2024 | ICLR | [cod
 / | / | / | / |
 [Federated Domain Generalization with Data-free On-server Gradient Matching](https://openreview.net/forum?id=8TERgu1Lb2) | 2025 | ICLR | [code](https://github.com/skydvn/fedomg)
 [DACOA: Diffusion-Aligned Coherent Augmentation and Consistency Constraint Strategies for Federated Domain Generalization](https://link.springer.com/chapter/10.1007/978-3-031-78398-2_12) | 2025 | ICPR
+FedAlign: Federated Domain Generalization with Cross-Client Feature Alignment | 2025 | arxiv
 FedDAG: Federated Domain Adversarial Generation Towards Generalizable Medical Image Analysis | 2025 | arxiv
 Beyond the Federation: Topology-aware Federated Learning for Generalization to Unseen Clients | 2024 | ICML
 Harmonizing Generalization and Personalization in Federated Prompt Learning | 2024 | ICML
