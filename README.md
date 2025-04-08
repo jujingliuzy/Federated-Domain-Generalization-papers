@@ -45,6 +45,7 @@ Mind the Gap: Federated Learning Broadens Domain Generalization in Diagnostic AI
 FedILC: Weighted Geometric Mean and Invariant Gradient Covariance for Federated Learning on Non-IID Data | 2022 | arxiv | \
 Exploiting Personalized Invariance for Better Out-of-distribution Generalization in Federated Learning | 2022 | arxiv | \
 FedSR: A Simple and Effective Domain Generalization Method for Federated Learning | 2022 | NIPS | \
+Federated adversarial domain generalization network: A novel machinery fault diagnosis method with data privacy | 2022 | Knowledge-Based Systems
 FedDrive: generalizing federated learning to semantic segmentation in autonomous driving | 2022 | IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) | \
 Mitigating Data Heterogeneity in Federated Learning with Data Augmentation | 2022 | arxiv | \
 Gradient Masking for Generalization in Heterogeneous Federated Learning | 2021 | NeurIPS Workshop on New Frontiers in Federated Learning | \
